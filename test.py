@@ -4,4 +4,4 @@ except ValueError:
     print("Please enter a number")
     n = int(input("Enter a number: "))
 else:
-    print(n)
+    print(f"n")
